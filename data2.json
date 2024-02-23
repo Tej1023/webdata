@@ -1,0 +1,10 @@
+{
+  "serverNames": [
+    {"name": "Server1", "size": "Small"},
+    {"name": "Server2", "size": "Medium"},
+    {"name": "Server3", "size": "Large"}
+  ],
+  "vpcs": ["VPC1", "VPC2", "VPC3"],
+  "subnets": ["Subnet1", "Subnet2", "Subnet3"],
+  "nsgs": ["NSG1", "NSG2", "NSG3"]
+}
